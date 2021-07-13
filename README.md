@@ -5,7 +5,7 @@ This project is a third to first person camera and third person zoom mechanic ma
 A playable form of the project for you to test it and enjoy it! \
 Let's go: https://drive.google.com/file/d/1KwN1klWhFZEHAfjZ94Eow0YcZqIZ3DFh/view?usp=sharing
 
-![](https://github.com/KaykyDeSouzaDias/Third-to-First-Person-ThirdPersonZoom-Unreal-Blueprint-C-plus-plus/blob/main/Images%20and%20GIFs/GameplayGIF.gif)
+![](https://github.com/KaykyDeSouzaDias/Third-to-First-Person-ThirdPersonZoom-Unreal-Blueprint-C-plus-plus/blob/main/Images%20and%20GIFs/ThirdToFirstCamZoomGIF.gif)
 
 # Reference
 
